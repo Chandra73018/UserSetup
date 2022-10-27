@@ -1,0 +1,20 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <Color x:Key="Black">#000000</Color>
+    <Color x:Key="White">#FFFFFF</Color>
+    <Color x:Key="Purple1">#333399</Color>
+    <Color x:Key="Purple2">#993399</Color>
+    <Color x:Key="Green">#CCCC33</Color>
+    <Color x:Key="Orange">#FF6633</Color>
+    <Color x:Key="Yellow">#FFC93E</Color>
+
+    <SolidColorBrush x:Key="GlobalTeal" Color="{StaticResource KodakAlarisTeal}" />
+    <SolidColorBrush x:Key="GlobalBlack" Color="{StaticResource Black}" />
+    <SolidColorBrush x:Key="GlobalLight" Color="{StaticResource White}" />
+    <SolidColorBrush x:Key="GlobalDark" Color="{StaticResource Black}" />
+    <SolidColorBrush x:Key="GlobalBackground" Color="{StaticResource Gray8}"/>
+    <SolidColorBrush x:Key="PopUp" Color="{StaticResource Gray1}" Opacity="0.55" />
+    <SolidColorBrush x:Key="BackDrop" Color="{StaticResource Teal4}"/>
+
+</ResourceDictionary>
